@@ -46,6 +46,17 @@ Once I started getting real experience, I realized a few things:
 
 ---
 
-Thanks for stopping by! 😊  
-Feel free to connect or check out some of my projects below!
+## 📂 Projects
 
+Here are a few school projects I’ve worked on:
+
+- 🔗 [CSE325 Group Project: Game Library](https://github.com/heathergibb/GameLibrary/tree/main)  
+  A Blazor .NET app for managing a personal game library. Group project focused on full-stack web development.
+
+- 🔗 [WDD330 Project: Harry Potter Houses](https://github.com/heathergibb/HarryPotter)  
+  A front-end JavaScript project demonstrating RESTful Web API consumption. Built using HTML, CSS, and JavaScript.
+
+- 🔗 [CSE341 Project: CSE Motors](https://github.com/heathergibb/cse340/tree/main)  
+  A full-stack web app aimed to learn the MVC architecture principles. Built with JavaScript, HTML, and CSS.
+  
+Thanks for stopping by! 😊
