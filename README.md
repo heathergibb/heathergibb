@@ -55,8 +55,5 @@ Here are a few school projects I’ve worked on:
 
 - 🔗 [WDD330 Project: Harry Potter Houses](https://github.com/heathergibb/HarryPotter)  
   A front-end JavaScript project demonstrating RESTful Web API consumption. Built using HTML, CSS, and JavaScript.
-
-- 🔗 [CSE341 Project: CSE Motors](https://github.com/heathergibb/cse340/tree/main)  
-  A full-stack web app aimed to learn the MVC architecture principles. Built with JavaScript, HTML, and CSS.
-  
+ 
 Thanks for stopping by! 😊
