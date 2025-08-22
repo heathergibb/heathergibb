@@ -1,7 +1,7 @@
 # Heather Gibb
 Hello all! 
 
-I'm currently looking for work as a software developer or software tester. I'm pursuing a **Bachelor’s Degree in Software Development** from **Brigham Young University - Pathway** and I'm on track to graduate in **early 2026**, and I’m excited to start a career where I can make meaningful contributions as a developer.
+I'm currently looking for remote work as a software developer or software tester. I'm pursuing a **Bachelor’s Degree in Software Development** from **Brigham Young University - Pathway** and I'm on track to graduate in **early 2026**, and I’m excited to start a career where I can make meaningful contributions as a developer.
 
 ---
 
